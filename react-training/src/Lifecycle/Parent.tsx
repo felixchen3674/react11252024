@@ -24,3 +24,9 @@ export default function Parent() {
     </div>
   );
 }
+
+const timeoutId = setTimeout(() => {
+  console.log("timer");
+}, 3000);
+
+clearTimeout(timeoutId);
