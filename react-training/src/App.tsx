@@ -11,9 +11,9 @@ function App() {
       {/* <Day12 /> */}
       {/* <Lifecycle /> */}
       {/* <FormInputs /> */}
-      <Day25Review />
+      {/* <Day25Review /> */}
 
-      {/* <PersonPicker /> */}
+      <PersonPicker />
     </>
   );
 }
